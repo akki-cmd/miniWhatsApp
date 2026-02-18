@@ -1,0 +1,33 @@
+h1{
+    text-align: center;
+}
+
+.chat{
+    background-color: rgba(153, 205, 50, 0.266);
+    margin: 20px;
+    width: 400px;
+    transition: 0.5s;
+}
+
+.chat:hover{
+    box-shadow: 2px 2px 12px black;
+    transform: scale(1.02);
+}
+
+.chat > h3 {
+    background-color: rgba(255, 192, 203, 0.443);
+    margin-bottom: 10px;
+}
+
+.chat > p{
+    padding-left: 10px;
+}
+
+.chat > h4{
+    color: rgba(255, 0, 0, 0.718);
+}
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+}
