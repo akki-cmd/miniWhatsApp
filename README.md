@@ -7,7 +7,8 @@ Small messaging web app demonstrating chat UI and messaging flow.
 - Simple front-end logic
 
 ## Run
-Open `index.html` in browser or serve via static server: `npx http-server`.
-
+1. clone this repo.
+2. run node index.js in Cli
+3. search http://localhost:8080 on browser 
 ## Notes
 For demo purposes only — not production-ready.
